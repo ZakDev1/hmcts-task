@@ -40,9 +40,7 @@ const App = () => {
         <div className="govuk-width-container">
           <div className="govuk-footer__meta">
             <div className="govuk-footer__meta-item">
-              <span className="govuk-footer__licence-description">
-                Built for HMCTS — His Majesty's Courts and Tribunals Service
-              </span>
+              <span className="govuk-footer__licence-description">Built for HMCTS</span>
             </div>
           </div>
         </div>
